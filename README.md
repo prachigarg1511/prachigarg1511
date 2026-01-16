@@ -64,30 +64,43 @@ Power BI, DAX, Data Modeling, Visualization, Excel/CSV
 
 ### Programming Languages
 
-* C
-* C++
-* Python
-* HTML, CSS, JavaScript
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Data Science & Analytics
+### Web Development
 
-* Data Analysis & Visualization
-* Machine Learning Fundamentals
-* ETL (Extract, Transform, Load)
-* NumPy, Pandas, Matplotlib, Scikit-learn
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
-### Tools & Platforms
 
-* Microsoft Power BI
-* MySQL
-* Git & GitHub
+### Data Science and Analytics
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ### Core CS Concepts
 
-* Data Structures & Algorithms
-* Object-Oriented Programming (OOP)
-* Database Management Systems (DBMS)
-* Data Analytics Fundamentals
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6F00?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-007ACC?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-003B57?style=for-the-badge)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel)
+
 
 ---
 
@@ -150,9 +163,9 @@ Power BI, DAX, Data Modeling, Visualization, Excel/CSV
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prachigarg1511&show_icons=true&theme=tokyonight" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prachigarg1511&theme=tokyonight" height="160"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachigarg1511&theme=tokyonight" />
+</p>
 
 
 </div>
