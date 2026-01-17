@@ -165,6 +165,8 @@ Power BI, DAX, Data Modeling, Visualization, Excel/CSV
 ![Stars](https://img.shields.io/github/stars/prachigarg1511?label=Stars&style=for-the-badge)
 ![Repos](https://img.shields.io/badge/Public%20Repos-✔-blue?style=for-the-badge)
 
+<img src="./github-stats.png" alt="GitHub Stats" width="500"/>
+
 
 ---
 
