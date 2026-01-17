@@ -161,14 +161,10 @@ Power BI, DAX, Data Modeling, Visualization, Excel/CSV
 
 ## 📈 GitHub Stats
 
-<div align="center">
+![Followers](https://img.shields.io/github/followers/prachigarg1511?label=Followers&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/prachigarg1511?label=Stars&style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-✔-blue?style=for-the-badge)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachigarg1511&theme=tokyonight" />
-</p>
-
-
-</div>
 
 ---
 
