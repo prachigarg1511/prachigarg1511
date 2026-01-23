@@ -169,7 +169,6 @@ Power BI, DAX, Data Modeling, Visualization, Excel/CSV
 
 <img src="https://github-readme-stats.vercel.app/api?username=prachigarg1511&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="prachigarg1511's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachigarg1511&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="prachigarg1511's GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=prachigarg1511&theme=dark&hide_border=true"/>
 
 ---
 
