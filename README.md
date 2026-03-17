@@ -58,6 +58,11 @@ Developed a **multi-page Power BI dashboard** to analyze sales performance acros
 **Tools & Technologies:**
 Power BI, DAX, Data Modeling, Visualization, Excel/CSV
 
+--- snake game repo --- 
+<div align = "centre">
+  <img src = "https://profile.readme-generator.com/assets/snake.svg" alt = "snake animation"/>
+</div>
+
 ---
 
 ## 🛠 Technical Skills
