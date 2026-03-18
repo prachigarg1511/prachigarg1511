@@ -58,6 +58,13 @@ Developed a **multi-page Power BI dashboard** to analyze sales performance acros
 **Tools & Technologies:**
 Power BI, DAX, Data Modeling, Visualization, Excel/CSV
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70897&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+a+Developer!;I+love+building+cool+apps.;Exploring+new+tech+stacks!;Let's+build+something+amazing!" alt="Typing SVG" />
+  </a>
+</p>
+
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -65,6 +72,10 @@ Power BI, DAX, Data Modeling, Visualization, Excel/CSV
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prachigarg1511&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
 
 ## 🛠 Technical Skills
 
@@ -189,6 +200,7 @@ Power BI, DAX, Data Modeling, Visualization, Excel/CSV
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prachigarg1511&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
