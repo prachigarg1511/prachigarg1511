@@ -207,7 +207,6 @@ Power BI, DAX, Data Modeling, Visualization, Excel/CSV
 ## 🌐 Coding Profiles
 
 
-
 * [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/iframe/5aabb6c59f43)
   
 * [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/prachigarg1511)
