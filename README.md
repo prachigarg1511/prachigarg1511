@@ -44,7 +44,7 @@ DAV Public School, Kotkapura
 
 ## 📊 Power BI Sales Analytics Dashboard
 
-**GitHub:** *Add your GitHub repository link here*
+**GitHub:** *https://github.com/prachigarg1511/Git-Power-BI-Based-on-Economic-Data*
 
 **Duration:** Aug 2025 – Nov 2025
 
