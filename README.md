@@ -72,7 +72,7 @@ Developed a comprehensive **multi-page Power BI Sales Analytics Dashboard** to m
 
 ## 📚 CogniClass
 
-**GitHub:** *Add your GitHub repository link here*
+**GitHub:** *https://github.com/prachigarg1511/CogniClassAI*
 
 Developed an AI-powered educational platform to provide personalized learning assistance and improve student engagement through interactive features.
 
@@ -94,7 +94,7 @@ Developed an AI-powered educational platform to provide personalized learning as
 
 ## 🏛️ GovPortal – AI-Based Complaint & Grievance System
 
-**GitHub:** *Add your GitHub repository link here*
+**GitHub:** *https://github.com/prachigarg1511/GovPortal-AI-Based-Complaint-Grievance-System*
 
 Developed an AI-powered grievance management platform that enables users to register, track, and manage complaints efficiently. The system categorizes issues dynamically, routes them to appropriate government departments, tracks resolution status, and displays real-time analytics for transparency.
 
