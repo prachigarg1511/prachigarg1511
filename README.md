@@ -8,7 +8,8 @@
 📧 **[prachigarg1511@gmail.com](mailto:prachigarg1511@gmail.com)**
 🔗 [LinkedIn](https://www.linkedin.com/in/prachi-garg-a37345327)
 📚[PortFolio](https://prachigargportfolio.netlify.app/)
-💻 Passionate about ML & Problem Solving
+
+💻 Passionate about Data, ML & Problem Solving
 
 </div>
 
