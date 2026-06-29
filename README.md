@@ -42,23 +42,81 @@ DAV Public School, Kotkapura
 
 ## 💼 Projects
 
-### 📊 Power BI Sales Analytics Dashboard
+## 📊 Power BI Sales Analytics Dashboard
+
+**GitHub:** *Add your GitHub repository link here*
 
 **Duration:** Aug 2025 – Nov 2025
+
 **Domain:** E-Commerce / Sales Analytics
 
-**Description:**
-Developed a **multi-page Power BI dashboard** to analyze sales performance across customers, products, sellers, and revenue streams.
+Developed a comprehensive **multi-page Power BI Sales Analytics Dashboard** to monitor business performance and provide actionable insights into sales, customer behavior, product trends, and revenue generation through interactive visualizations.
 
-**Key Features & Analysis:**
+### Key Features
+- Executive KPI cards displaying Total Sales, Total Orders, Total Customers, and Average Order Value (AOV)
+- Customer analysis with payment method distribution using interactive donut charts
+- Product performance dashboard highlighting Top 10 Best-Selling and Worst-Selling Products
+- Interactive filters and slicers for dynamic data exploration
+- Sales trend analysis across multiple business dimensions
+- Clean, responsive, dark-themed dashboard for improved readability and user experience
 
-* Executive KPI cards for **Total Sales, Orders, Customers & AOV**
-* Customer analytics using **donut charts** for payment method distribution
-* Product performance analysis identifying **top 10 best-selling & worst-selling products**
-* Clean **dark-themed dashboard** for better readability
+### Tools & Technologies
+- Power BI
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Data Visualization
+- Microsoft Excel
+- CSV Data Processing
 
-**Tools & Technologies:**
-Power BI, DAX, Data Modeling, Visualization, Excel/CSV
+---
+
+## 📚 CogniClass
+
+**GitHub:** *Add your GitHub repository link here*
+
+Developed an AI-powered educational platform to provide personalized learning assistance and improve student engagement through interactive features.
+
+### Key Features
+- Real-time understanding score analysis
+- Classroom feedback loops
+- Student grouping
+- Automated doubt detection
+
+### Skills Applied
+- HTML
+- CSS
+- JavaScript
+- AI Integration
+- Git
+- GitHub
+
+---
+
+## 🏛️ GovPortal – AI-Based Complaint & Grievance System
+
+**GitHub:** *Add your GitHub repository link here*
+
+Developed an AI-powered grievance management platform that enables users to register, track, and manage complaints efficiently. The system categorizes issues dynamically, routes them to appropriate government departments, tracks resolution status, and displays real-time analytics for transparency.
+
+### Key Features
+- Complaint registration and management
+- AI-based issue categorization
+- Automatic department routing
+- Complaint status tracking
+- Real-time analytics dashboard
+- Transparent grievance resolution
+
+### Skills Applied
+- HTML
+- CSS
+- JavaScript
+- AI Integration
+- Git
+- GitHub
+- UI/UX Design
+- Problem Solving
+
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
