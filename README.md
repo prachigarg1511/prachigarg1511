@@ -133,10 +133,6 @@ Developed an AI-powered grievance management platform that enables users to regi
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prachigarg1511&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-
 ## 🛠 Technical Skills
 
 ### Programming Languages
