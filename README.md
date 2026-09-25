@@ -220,6 +220,12 @@ Developed an AI-powered grievance management platform that enables users to regi
 * **HackerRank Skill Certificate**
   🔗 [View Certificate](https://www.hackerrank.com/certificates/iframe/5aabb6c59f43)
 
+* **AWS Academy Graduate Certification- Cloud Foundations**
+  🔗 [View Certificate](https://www.credly.com/go/sCrJeNKl)
+
+* **AWS Academy Graduate Certification- Data Engineering**
+  🔗 [View Certificate](https://www.credly.com/go/RCDb7OA7)
+  
 ---
 
 ## 🤝 Membership & Leadership
