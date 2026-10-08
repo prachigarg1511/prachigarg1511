@@ -215,7 +215,7 @@ Developed an AI-powered grievance management platform that enables users to regi
   🔗 [View Certificate](https://www.nasscom.in)
 
 * **Power BI** — TuteDude (IIT Delhi Alumni)
-  🔗 [View Certificate](https://tutedude.com)
+  🔗 [View Certificate](https://drive.google.com/file/d/1dtGBz4Da2gYPmchlBOTolcLCMznBGRTM/view?usp=sharing)
 
 * **HackerRank Skill Certificate**
   🔗 [View Certificate](https://www.hackerrank.com/certificates/iframe/5aabb6c59f43)
