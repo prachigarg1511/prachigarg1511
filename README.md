@@ -206,7 +206,7 @@ Developed an AI-powered grievance management platform that enables users to regi
 ## 📜 Certifications
 
 * **Introduction to Python** — Infosys Springboard
-  🔗 [View Certificate](https://www.infosys.com/learning/springboard)
+  🔗 [View Certificate](https://drive.google.com/file/d/1JeRSLyC47LCZRCXq6igUQFVfu3NLDBg0/view?usp=sharing)
 
 * **App Development** — NASSCOM
   🔗 [View Certificate](https://www.nasscom.in)
