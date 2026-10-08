@@ -209,16 +209,16 @@ Developed an AI-powered grievance management platform that enables users to regi
   🔗 [View Certificate](https://drive.google.com/file/d/1JeRSLyC47LCZRCXq6igUQFVfu3NLDBg0/view?usp=sharing)
 
 * **App Development** — NASSCOM
-  🔗 [View Certificate](https://www.nasscom.in)
+  🔗 [View Certificate](https://drive.google.com/file/d/1PuWXEBFnfE8RzH87n_f_TLCqwEclKNj7/view?usp=sharing)
 
 * **Artificial Intelligence on the Go with Jetson Nano** — NASSCOM
-  🔗 [View Certificate](https://www.nasscom.in)
+  🔗 [View Certificate](https://drive.google.com/file/d/1Oe4TKuJOQSpsqo_IzzkuBZDQovlGZiDy/view?usp=sharing)
 
 * **Power BI** — TuteDude (IIT Delhi Alumni)
   🔗 [View Certificate](https://drive.google.com/file/d/1dtGBz4Da2gYPmchlBOTolcLCMznBGRTM/view?usp=sharing)
 
 * **HackerRank Skill Certificate**
-  🔗 [View Certificate](https://www.hackerrank.com/certificates/iframe/5aabb6c59f43)
+  🔗 [View Certificate](https://drive.google.com/file/d/1PzVd-skVm7P3jh_SEKWdd-R2MRnu08ZU/view?usp=sharing)
 
 * **AWS Academy Graduate Certification- Cloud Foundations**
   🔗 [View Certificate](https://www.credly.com/go/sCrJeNKl)
